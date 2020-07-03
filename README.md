@@ -1,2 +1,2 @@
 # python-flask-blog
-this blog is build using pyhton flask
+This blog is build using python flask web framework.
